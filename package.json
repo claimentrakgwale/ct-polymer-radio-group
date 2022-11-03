@@ -1,0 +1,29 @@
+{
+  "name": "ct-polymer-radio-group",
+  "version": "1.0.0",
+  "description": "Claiment Polymer Radio Group",
+  "main": "ct-polymer-radio-group.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/claimentrakgwale/ct-polymer-radio-group.git"
+  },
+  "keywords": [
+    "Polymer"
+  ],
+  "author": "Claiment Thabiso Rakgwale",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/claimentrakgwale/ct-polymer-radio-group/issues"
+  },
+  "homepage": "https://github.com/claimentrakgwale/ct-polymer-radio-group#readme",
+  "dependencies": {
+    "@polymer/decorators": "^3.0.0",
+    "@polymer/paper-radio-button": "^3.0.1",
+    "@polymer/paper-radio-group": "^3.0.1",
+    "@polymer/polymer": "^3.5.1",
+    "cl-polymer-element-helpers": "^1.0.1"
+  }
+}
